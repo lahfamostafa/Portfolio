@@ -30,7 +30,7 @@ export const personal = {
    */
   intro: {
     music: {
-      src: "/audio/ascension-slowed.mp3",
+      src: "/audio/ascension-slowed1.mp3",
       title: "ASCENSION! (Slowed)",
       startAt: 112, // 1:52
       volume: 0.6,
